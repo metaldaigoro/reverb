@@ -1,0 +1,2 @@
+eff70a8a236e731abba774ba71e1f6d0fce53302137208c32207e694e0bf4546  ggml-kotoba-whisper-v2.0.bin
+bce42c15312fcdbdcc8432b2ce63ba967f4cc3d2cc783fd6ab2ba264caf0db8d  ggml-anime-whisper.bin
